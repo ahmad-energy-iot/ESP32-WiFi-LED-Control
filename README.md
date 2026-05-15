@@ -161,7 +161,7 @@ while True:
 
 ---
 
-# 🇬🇧 English Documentation
+# English Documentation
 
 ## Smart Home IoT Project using ESP32 and MicroPython
 
