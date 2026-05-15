@@ -63,18 +63,6 @@ GPIO5 → LED → Widerstand → GND
 
 ---
 
-## Projektbilder
-
-### ESP32 WiFi LED Steuerung
-
-![ESP32 WiFi LED Control](images/esp32_wifi_led_1.jpg)
-
-### Steuerung über Smartphone Browser
-
-![ESP32 Smartphone Control](images/esp32_wifi_led_2.jpg)
-
----
-
 ## Python Code
 
 ```python
@@ -233,18 +221,6 @@ GPIO5 → LED → Resistor → GND
 - Socket Programming
 - HTML
 - IoT Basics
-
----
-
-## Project Images
-
-### ESP32 WiFi LED Control
-
-![ESP32 WiFi LED Control](images/esp32_wifi_led_1.jpg)
-
-### Smartphone Browser Control
-
-![ESP32 Smartphone Control](images/esp32_wifi_led_2.jpg)
 
 ---
 
